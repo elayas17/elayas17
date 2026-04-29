@@ -13,15 +13,9 @@ Hello! My name is Elias. I live in Santiago, Chile :)
 <br>
 
 <p align="center">
-    *<a href="[Enlace a tu perfil de LinkedIn]">
-    *    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    *</a>
     <a href="mailto:[eliasgaticap@gmail.com]">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    *<a href="[Enlace a tu CV en PDF si tienes uno]">
-    *    <img src="https://img.shields.io/badge/Resume_in_spanish-a?style=for-the-badge&logoColor=white"/>
-    *</a>
 </p>
 
 ## Some info 😺
@@ -29,12 +23,6 @@ Hello! My name is Elias. I live in Santiago, Chile :)
 <br>
 
 - 🏫 I am a Computer Science Engineering student at Universidad de Chile.
-*- 👷 I currently work at / help with [Tu trabajo o proyecto actual].
-*- 🧑‍🏫 I am a teaching assistant for [Nombre del ramo o curso].
-*- 💻 I have a strong interest in [Tus áreas de interés tecnológico, ej: Data Science, Web Dev, Cybersecurity].
-*- ❤️ I am deeply passionate about [Algo que te apasione, ej: open source, educación, crear comunidades].
-*- 🧩 In my free time, I enjoy [Tus hobbies, ej: playing videogames, reading sci-fi, hiking].
-*- 🐶 Fun fact: [Agrega un dato curioso sobre ti].
 
 <br>
 <br>
@@ -47,8 +35,6 @@ Hello! My name is Elias. I live in Santiago, Chile :)
 <br>
 
 ## Tech Stack 🛠️
-
-*(Borra las tecnologías que no uses y agrega las tuyas)*
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
